@@ -1,0 +1,16 @@
+public class CaesarCipher {
+    //Alphabet
+    private char[] alfabeto;
+    public CaesarCipher(char[] alfabeto) {
+    this.alfabeto = alfabeto;
+    }
+    public String encriptado(String text, int clave){
+        //Logica de encriptación
+        return null;
+    }
+    public String desencriptado(String text, int clave){
+        //Logica de desencriptación
+        return null;
+    }
+}
+
